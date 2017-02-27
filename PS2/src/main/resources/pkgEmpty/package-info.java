@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author danpaddock
- *
- */
-package pkgEmpty;
