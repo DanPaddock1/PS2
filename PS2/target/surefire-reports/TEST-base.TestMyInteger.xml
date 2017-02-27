@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="base.TestMyInteger" time="0.005" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="base.TestMyInteger" time="0.007" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib"/>
@@ -26,7 +26,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Users/danpaddock/Documents/newWS/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3235611082963526559.tmp"/>
+    <property name="classworlds.conf" value="/Users/danpaddock/Documents/newWS/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf3646765668845614601.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/danpaddock/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -64,6 +64,6 @@
   </properties>
   <testcase classname="base.TestMyInteger" name="TestEquals" time="0.005"/>
   <testcase classname="base.TestMyInteger" name="TestIsPrime" time="0"/>
-  <testcase classname="base.TestMyInteger" name="TestIsEven" time="0"/>
-  <testcase classname="base.TestMyInteger" name="TestIsOdd" time="0"/>
+  <testcase classname="base.TestMyInteger" name="TestIsEven" time="0.001"/>
+  <testcase classname="base.TestMyInteger" name="TestIsOdd" time="0.001"/>
 </testsuite>
